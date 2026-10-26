@@ -1,0 +1,57 @@
+# TASK 3: CAUSALITY ASSESSMENT OF DRUG REACTIONS
+
+## 1. Patient Case Details
+
+| Parameter                   | Case Information                                       |
+| --------------------------- | ------------------------------------------------------ |
+| Patient                     | 45-year-old female                                     |
+| Suspected Drug              | Amoxicillin                                            |
+| Adverse Drug Reaction (ADR) | Skin rash                                              |
+| Onset of Reaction           | 3 days after starting the drug                         |
+| Outcome                     | Recovered after stopping the drug                      |
+| Dechallenge                 | Positive — the reaction resolved after drug withdrawal |
+| Rechallenge                 | Not reported                                           |
+| Alternative Causes          | Not specified in the case                              |
+
+## 2. Causality Assessment
+
+**Suspected drug:** Amoxicillin
+**Reported adverse reaction:** Skin rash
+
+The patient developed a skin rash three days after starting amoxicillin. This establishes a reasonable temporal relationship between drug exposure and the adverse reaction.
+
+The patient recovered after discontinuation of amoxicillin. This is a positive dechallenge, meaning the reaction improved after the suspected medicine was withdrawn.
+
+However, the case does not provide sufficient information to exclude all alternative causes, such as the underlying illness or other medications. It also does not report whether the reaction recurred following re-exposure to amoxicillin.
+
+## 3. Assessment Using Standard Criteria
+
+| Assessment Criterion  | Finding                                                          | Interpretation                          |
+| --------------------- | ---------------------------------------------------------------- | --------------------------------------- |
+| Temporal relationship | Rash appeared 3 days after starting amoxicillin                  | Supports a drug-related reaction        |
+| Dechallenge           | Patient recovered after stopping amoxicillin                     | Supports a possible causal relationship |
+| Alternative causes    | Not documented                                                   | Further assessment is needed            |
+| Rechallenge           | Not reported                                                     | No additional evidence available        |
+| Known reaction        | Skin rash is a recognized possible adverse effect of amoxicillin | Supports pharmacological plausibility   |
+
+## 4. Final Causality Classification
+
+**Classification: PROBABLE / LIKELY — provisional**
+
+### Justification
+
+The reaction developed within a reasonable period after amoxicillin administration, and the patient recovered after the drug was discontinued. These findings support a causal relationship.
+
+Under the WHO–UMC system, a *Probable/Likely* classification is appropriate when the timing is reasonable, the clinical course following drug withdrawal supports the relationship, and alternative causes are unlikely. Rechallenge is not required.
+
+Because the case does not explicitly exclude alternative causes, the Probable/Likely classification is provisional and depends on confirming that no plausible competing explanation exists. If alternative causes remain credible, **Possible** may be the more appropriate classification.
+
+A **Certain** classification is not justified by the available information.
+
+## 5. Conclusion
+
+The case describes a suspected amoxicillin-associated adverse drug reaction in a 45-year-old female. The skin rash appeared three days after starting treatment, and the patient recovered after discontinuing the medicine.
+
+The temporal relationship and positive dechallenge support a causal association. The preliminary classification is **Probable/Likely**, provided alternative causes are considered unlikely following further assessment.
+
+This case demonstrates the importance of reviewing the onset of symptoms, response to drug withdrawal, alternative explanations, and rechallenge information during pharmacovigilance causality assessment.
