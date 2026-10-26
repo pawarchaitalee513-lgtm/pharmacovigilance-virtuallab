@@ -1,0 +1,66 @@
+Task 1: ADR Identification Basics
+
+Internship: Pharmacovigilance
+Objective: Identify a suspected adverse drug reaction (ADR) by evaluating the patient's symptoms, medication history, and the timeline of events.
+
+1. Findings from the Screenshot
+
+The screenshot provides the following fictional patient case:
+
+Parameter	Details
+Patient	Female
+Age	45 years
+Suspected adverse reactions	Skin rash, itching, nausea, and dizziness
+Medication 1	Amoxicillin
+Medication history	Amoxicillin was started 5 days before the assessment
+Medication 2	Paracetamol
+Paracetamol usage	Taken as needed
+Timeline	Symptoms began approximately 2 days before the assessment and are still present
+Main objective	Identify the suspected drug and assess whether the symptoms may be drug-related
+2. ADR Identification and Analysis
+
+A. Suspected drug: Amoxicillin
+
+Amoxicillin is the primary suspected drug because the patient developed a skin rash, itching, nausea, and dizziness after starting treatment.
+
+Amoxicillin can cause gastrointestinal adverse effects, including nausea, and can also cause hypersensitivity reactions that manifest as skin rash and itching. Dizziness may also occur, although it is nonspecific.
+
+The timing is compatible with a possible drug-related reaction. However, the available information is insufficient to establish that amoxicillin definitely caused all the reported symptoms.
+
+B. Assessment of paracetamol
+
+Paracetamol is another medication in the patient's history. Although it can occasionally cause skin reactions and other adverse effects, the screenshot does not specify when the patient last took it or whether the symptoms occurred in relation to its use.
+
+Therefore, paracetamol cannot be completely excluded as a possible contributor. Additional information is required to assess its role.
+
+3. Timeline Assessment
+Time	Event	Interpretation
+Day −5	Amoxicillin treatment started	Beginning of exposure to the suspected drug
+Day −2	Symptoms began	Rash, itching, nausea, and dizziness developed after treatment began
+Day 0	Symptoms persist	Further clinical assessment is required
+
+Interpretation: The onset of symptoms after amoxicillin exposure supports a possible temporal association. However, the timeline alone does not prove causality.
+
+4. ADR Assessment Summary
+Assessment parameter	Finding
+Suspected drug	Amoxicillin
+Reported reactions	Rash, itching, nausea, and dizziness
+Temporal relationship	Compatible with a possible drug-related reaction
+Alternative suspected medication	Paracetamol
+Other possible causes	Underlying illness, infection, or other unreported exposures
+Causality conclusion	Suspected ADR; causality remains unconfirmed
+Missing information	Dose, route, frequency, allergy history, previous exposure, last paracetamol dose, concomitant medications, and clinical examination
+Recommended action	Prompt clinical assessment and appropriate documentation
+5. Recommended Clinical Action
+
+The combination of rash and itching following amoxicillin exposure raises concern for a possible drug hypersensitivity reaction.
+
+The patient should receive prompt medical assessment. If amoxicillin is still being taken, the next dose should be withheld pending urgent advice from a qualified healthcare professional. The patient should not independently restart the medication.
+
+Emergency warning: If the patient develops difficulty breathing, swelling of the face, lips, or tongue, fainting, or a rapidly progressing severe reaction, emergency medical care is required.
+
+The suspected reaction should be documented, including the medication details, symptom onset, clinical findings, treatment provided, and outcome. Any decision about future use of amoxicillin or related antibiotics should be made by a qualified clinician.
+
+6. Final Conclusion
+
+The case describes a suspected adverse drug reaction associated primarily with amoxicillin, presenting as rash, itching, nausea, and dizziness. The timing supports a possible relationship between drug exposure and symptom onset. However, the available information does not establish definitive causality, and the potential contribution of paracetamol or other causes requires further investigation.
